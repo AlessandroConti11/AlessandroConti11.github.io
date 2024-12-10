@@ -2,20 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MSc student at <a href='https://www.polimi.it/'>PoliMI</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-#  more_info: >
+  image: ale_img.jpg
+  image_circular: true # crops the image to make it circular
+  more_info: >
+    <p>Milan, Italy</p>
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
-#    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This is my biography...
+<h1>Hi 👋, I'm Alessandro Conti</h1>
+<h3>A passionate backend developer from Italy</h3>
+
+I'm a MSc student in computer science and engineering at the Politecnico of Milan.
+I am very passionate about cyber-security, operating systems, software development, and generally all free and open source software.
+
+I am comfortable working in teams and collaborating with passionate people.
