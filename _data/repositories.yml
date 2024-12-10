@@ -3,11 +3,11 @@ github_users:
 
 repo_description_lines_max: 2
 
-# github_repos:
-#   - alshedivat/al-folio
-#   - jekyll/jekyll
-#   - twbs/bootstrap
-#   - jquery/jquery
-#   - FortAwesome/Font-Awesome
-#   - mathjax/MathJax
-#   - jpswalsh/academicons
+ github_repos:
+   - AlessandroConti11/Progetto_API_2023
+   - AlessandroConti11/Progetto_Ingegneria_del_Software_2023
+   - AlessandroConti11/Progetto_Reti_Logiche_2023
+   - AlessandroConti11/Code_Kata_Battle
+   - AlessandroConti11/Fault-Tolerant_Data_Flow
+   - AlessandroConti11/Matrix_Library
+   - AlessandroConti11/Modular_Arithmetic_Library
