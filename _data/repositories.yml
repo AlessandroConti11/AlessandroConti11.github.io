@@ -3,14 +3,14 @@ github_users:
 
 repo_description_lines_max: 2
 
-github_repos:
-  - AlessandroConti11/Progetto_API_2023
-  - AlessandroConti11/Progetto_Ingegneria_del_Software_2023
-  - AlessandroConti11/Progetto_Reti_Logiche_2023
-  - AlessandroConti11/Code_Kata_Battle
-  - AlessandroConti11/Fault-Tolerant_Data_Flow
-  - AlessandroConti11/Matrix_Library
-  - AlessandroConti11/Modular_Arithmetic_Library
+# github_repos:
+#   - AlessandroConti11/Progetto_API_2023
+#   - AlessandroConti11/Progetto_Ingegneria_del_Software_2023
+#   - AlessandroConti11/Progetto_Reti_Logiche_2023
+#   - AlessandroConti11/Code_Kata_Battle
+#   - AlessandroConti11/Fault-Tolerant_Data_Flow
+#   - AlessandroConti11/Matrix_Library
+#   - AlessandroConti11/Modular_Arithmetic_Library
 
 github_repos_bachelor_fp:
   - AlessandroConti11/Progetto_API_2023
@@ -20,7 +20,10 @@ github_repos_bachelor_fp:
 github_repos_polimi_course:
   - AlessandroConti11/Code_Kata_Battle
   - AlessandroConti11/Fault-Tolerant_Data_Flow
+  - AlessandroConti11/Parking_Occupancy_IoT_2024
 
 github_repos_for_fun:
   - AlessandroConti11/Matrix_Library
   - AlessandroConti11/Modular_Arithmetic_Library
+  - AlessandroConti11/Generate_Unpredictable_Random_Number
+  - AlessandroConti11/Simple_Client-Server_Interaction
