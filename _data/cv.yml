@@ -10,13 +10,12 @@
       - Italian
       - English
     - name: Contacts
-      value:
-      - email:
+      email:
         value:
         - ale.conti.1101@gmail.com
         - alessandro11.conti@mail.polimi.it
-      - phone: +39 3383180874
-      - website: https://AlessandroConti11.github.io
+      phone: +39 3383180874
+      website: https://AlessandroConti11.github.io
     
 
 - title: Education
