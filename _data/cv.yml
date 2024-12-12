@@ -3,19 +3,24 @@
   contents:
     - name: Full Name
       value: Alessandro Conti
-    - name: Date of Birth
-      value: 11th January 2002
-    - name: Languages
-      value: 
-      - Italian
-      - English
-    - name: Contacts
-      email:
-        value:
+    - name: Label
+      value: Student
+    - name: Email
+      value:
         - ale.conti.1101@gmail.com
         - alessandro11.conti@mail.polimi.it
-      phone: +39 3383180874
-      website: https://AlessandroConti11.github.io
+    - name: Numero di Telefono
+      value: "+39 3383180874"
+    - name: Sito Web
+      value: "https://AlessandroConti11.github.io"
+    - name: Location
+      value:
+        address: ""
+        postalCode: ""
+        city: ""
+        countryCode: ""
+        region: ""
+
     
 
 - title: Education
