@@ -7,6 +7,20 @@
       value: 11th January 2002
     - name: Languages
       value: Italian, English
+
+- title: Contact
+  type: nested_list
+  content:
+    - title: Emails
+      type: list
+      contents:
+        - ale.conti.1101@gmail.com
+        - alessandro11.conti@mail.polimi.it
+    - title: Numbers
+      type: list
+      contents:
+        - 11111
+        - 22222
     
 
 - title: Education
