@@ -15,7 +15,7 @@
 - title: Contacts
   type: nested_list
   contents:
-    - name: Emails
+    - title: Emails
       items:
         - <a href="mailto:ale.conti.1101@gmail.com" target="_blank">ale.conti.1101@gmail.com</a>
         - <a href="mailto:alessandro11.conti@mail.polimi.it" target="_blank">alessandro11.conti@mail.polimi.it</a>
