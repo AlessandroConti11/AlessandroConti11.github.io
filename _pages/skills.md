@@ -7,18 +7,27 @@ nav: true
 nav_order: 4
 ---
 
-<h1>Programming Language</h1>
+{% if site.data.skills.programming_language %}
+
+## Programming Language
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for skill in site.data.skills.programming_language %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+
+{% endif %}
 
 ---
 
-<h1>Framework</h1>
+## Framework
 
 ---
 
-<h1>Applications</h1>
+## Applications
 
 ---
 
-<h1>Operating System</h1>
+## Operating System
 
 ---
