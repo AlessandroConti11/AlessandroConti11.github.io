@@ -5,23 +5,8 @@
       value: Alessandro Conti
     - name: Date of Birth
       value: 11th January 2002
-    - title: Languages
-      type: list
-      contents:
-      - Italian
-      - English
-    - title: Contacts
-      type: nested_list
-      contents:
-      - title: Email
-        items:
-          - ale.conti.1101@gmail.com
-          - alessandro11.conti@mail.polimi.it
-      - title: Phone
-        items: +39 3383180874
-      - title: Website
-        items: https://alessandroconti11.github.io
-
+    - name: Languages
+      value: Italian, English
     
 
 - title: Education
