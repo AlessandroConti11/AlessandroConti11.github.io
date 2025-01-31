@@ -19,27 +19,6 @@
       items:
         - <a href="https://t.me/Imperatore11">Telegram</a>    
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelor Degree in Computer Engineering
-        institution: Polytechnic University of Milan, Milan, Italy
-        year: 2023
-        description:
-          - Description 1.
-          - Description 2.
-    - title: High School Diploma of Liceo Scientifico opzione Scienze Applicate
-      institution: I.I.S. James Clark Maxwell, Milan, Italy
-      year: 2020
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    
-
 - title: Experience
   type: time_table
   contents:
