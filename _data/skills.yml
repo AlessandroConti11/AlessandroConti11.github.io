@@ -21,19 +21,19 @@
 - title: Programming Language
   type: nested_list
   contents:
-    - ciao
+    - title: ciao
 
 - title: Framework
   type: nested_list
   contents:
-    - ciao
+    - title: ciao
 
 - title: Application
   type: nested_list
   contents:
-    - ciao
+    - title: ciao
 
 - title: Operating System
   type: nested_list
   contents:
-    - ciao
+    - title: ciao
