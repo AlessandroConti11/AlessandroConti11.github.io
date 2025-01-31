@@ -22,8 +22,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor
-      institution: Ciao, Zurich, Switzerland
+    - title: Bachelor Degree in Computer Engineering
+      institution: Polytechnic University of Milan, Milan, Italy
       year: 2023
       description:
         - Description 1.
@@ -32,8 +32,8 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Diploma
-      institution: ciao ciao
+    - title: Liceo Scientifico opzione Scienze Applicate Diploma
+      institution: I.I.S. James Clark Maxwell, Milan, Italy
       year: 2020
       description:
         - Description 1.
