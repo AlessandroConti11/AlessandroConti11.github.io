@@ -7,10 +7,10 @@
       value: 11th January 2002
     - name: Languages
       value: Italian, English
-    - title: ciao
-      items:
-        - ciao1
-        - ciao2
+    # - title: ciao
+    #   items:
+    #     - ciao1
+    #     - ciao2
 
 - title: Contacts
   type: nested_list
@@ -26,13 +26,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: Laurea di Primo Livello in Ingegneria Informatica
-        institution: Politecnico, Milan, Italy
-        year: 1900
+    - title: Bachelor's Degree in Computer Engineering
+        institution: Polytechnic University of Milan, Milan, Italy
+        year: 2023
         description:
           - Description 1.
           - Description 2.
-    - title: Liceo Scientifico opzione Scienze Applicate
+    - title: High School Diploma of Liceo Scientifico opzione Scienze Applicate
       institution: I.I.S. James Clark Maxwell, Milan, Italy
       year: 2020
       description:
