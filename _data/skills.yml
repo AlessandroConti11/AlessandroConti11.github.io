@@ -1,22 +1,22 @@
-# - title: Programming Language
-#   type: nested_list
-#   contents:
-#     - ciao
+- title: Programming Language
+  type: nested_list
+  contents:
+    - ciao
 
-# - title: Framework
-#   type: nested_list
-#   contents:
-#     - ciao
+- title: Framework
+  type: nested_list
+  contents:
+    - ciao
 
-# - title: Application
-#   type: nested_list
-#   contents:
-#     - ciao
+- title: Application
+  type: nested_list
+  contents:
+    - ciao
 
-# - title: Operating System:
-#   type: nested_list
-#   contents:
-#     - ciao
+- title: Operating System:
+  type: nested_list
+  contents:
+    - ciao
 
 - title: Interests
   type: nested_list
