@@ -1,11 +1,30 @@
-programming_language:
-  - ciao
+# programming_language:
+#   - ciao
 
-framework:
-  - ciao
+# framework:
+#   - ciao
 
-application:
-  - ciao
+# application:
+#   - ciao
 
-operating_system:
-  - ciao
+# operating_system:
+#   - ciao
+- title: Programming Language
+  type: nested_list
+  contents:
+    - ciao
+
+- title: Framework
+  type: nested_list
+  contents:
+    - ciao
+
+- title: Application
+  type: nested_list
+  contents:
+    - ciao
+
+- title: Operating System:
+  type: nested_list
+  contents:
+    - ciao
