@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: cv
 permalink: /skills/
