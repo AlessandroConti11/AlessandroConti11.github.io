@@ -22,6 +22,7 @@
   type: nested_list
   contents:
     - title: ciao
+    - title: ciao ciao
 
 - title: Framework
   type: nested_list
