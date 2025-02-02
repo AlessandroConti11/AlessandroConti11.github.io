@@ -35,29 +35,29 @@
             - Fisica - 051124
             - Fondamenti di Comunicazione e Internet - 054303
             - Elettrotecnica - 082748
-        - title: 2nd Year
-          contents:
-            - Analisi Matematica 2 - 052425
-            - Architettura dei Calcolatori e Sistemi Operativi - 085779
-            - Chimica Generale - 085900
-            - Logica e Algebra - 085903
-            - Fondamenti di Automatica - 085905
-            - Algoritmi e Principi dell Informatica - 086067
-            - Probabilità e Statistica per l Informatica - 099319
-            - Prova Finale (Progetto di Algoritmi e Strutture Dati) - 052509
-          - title: 3rd Year
-          contents:
-            - Ingegneria del Software - 052510
-            - Sistemi Informativi (per il settore dell informazione) - 052511
-            - Fondamenti di Elettronica - 085746
-            - Reti Logiche - 085877
-            - Basi di Dati 1 - 085887
-            - Prova Finale (Progetto di Reti Logiche) - 054441
-            - Sicurezza delle Reti - 051230
-            - Economia e Organizzazione Aziendale - 051289
-            - Tecnologie Informatiche per il Web - 085879
-            - Meccanica (per ing. informatica) - 088804
-            - Prova Finale (Ingegneria del Software) - 085923
+        # - title: 2nd Year
+        #   contents:
+        #     - Analisi Matematica 2 - 052425
+        #     - Architettura dei Calcolatori e Sistemi Operativi - 085779
+        #     - Chimica Generale - 085900
+        #     - Logica e Algebra - 085903
+        #     - Fondamenti di Automatica - 085905
+        #     - Algoritmi e Principi dell Informatica - 086067
+        #     - Probabilità e Statistica per l Informatica - 099319
+        #     - Prova Finale (Progetto di Algoritmi e Strutture Dati) - 052509
+        #   - title: 3rd Year
+        #   contents:
+        #     - Ingegneria del Software - 052510
+        #     - Sistemi Informativi (per il settore dell informazione) - 052511
+        #     - Fondamenti di Elettronica - 085746
+        #     - Reti Logiche - 085877
+        #     - Basi di Dati 1 - 085887
+        #     - Prova Finale (Progetto di Reti Logiche) - 054441
+        #     - Sicurezza delle Reti - 051230
+        #     - Economia e Organizzazione Aziendale - 051289
+        #     - Tecnologie Informatiche per il Web - 085879
+        #     - Meccanica (per ing. informatica) - 088804
+        #     - Prova Finale (Ingegneria del Software) - 085923
     - title: Liceo Scientifico opzione Scienze Applicate Diploma
       institution: I.I.S. James Clark Maxwell, Milan, Italy
       year: 2020
