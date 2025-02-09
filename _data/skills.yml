@@ -18,7 +18,7 @@
 - title: Database Development
   type: nested_list
   contents:
-    - title: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=14468&format=png&color=000000" alt="sql" height="40"/>
 
 - title: Software
   type: nested_list
@@ -29,14 +29,26 @@
         - <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" alt="microsoft word" height="40"/>
         - <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="microsoft excel" height="40"/>
         - <img src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" alt="microsoft powerpoint" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=yobF1TONimeZ&format=png&color=000000" alt="onlyoffice" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=bClIoRlXM2zu&format=png&color=000000" alt="team viewer" height=40"/>
+    # - title: <img src="https://img.icons8.com/?size=100&id=LeB8j1mN1d86&format=png&color=000000" alt="libreoffice" height="40"/>
+    #   items:
+    #     - <img src="https://img.icons8.com/?size=100&id=MG2UE0fs0yBY&format=png&color=000000" alt="libreoffice writer" height="40"/>
+    #     - <img src="https://img.icons8.com/?size=100&id=GUAbbdSyYRmS&format=png&color=000000" alt="libreoffice calc" height="40"/>
+    #     - <img src="https://img.icons8.com/?size=100&id=54uYW0gO4Ewu&format=png&color=000000" alt="libreoffice impress" height="40"/>
+      
 
 - title: IDE
   type: nested_list
   contents:
-    - Jet brains
-    - visual studio
-    - jupyter
-    - 
+    - title: <img src="https://img.icons8.com/?size=100&id=pj15SuHu3Vlt&format=png&color=000000" alt="jetbrains" height="40"/>
+      items:
+        - <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" alt="clion" height="40"/>
+        - <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="intellij" height="40"/>
+        - <img src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" alt="pycharm" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="visual studio code" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" alt="jupyter" height"40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="mysql" height="40"/>
 
 - title: Operating System
   type: nested_list
