@@ -18,7 +18,7 @@
 - title: Database Development
   type: nested_list
   contents:
-    - title: <img src="https://img.icons8.com/?size=100&id=102597&format=png&color=000000" alt="sql" height="40"/>
+    - title: <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" height="40"/>
 
 - title: Software
   type: nested_list
