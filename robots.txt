@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AlessandroConti11.github.io/sitemap.xml
+Sitemap: https://alessandro.conti.it/sitemap.xml
