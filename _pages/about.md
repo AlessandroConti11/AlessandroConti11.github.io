@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<h1><img src="/assets/img/hi.gif" /></h1>
+<h1>Hi, I'm Alessandro Conti</h1>
 <h3>A passionate backend developer from Italy</h3>
 
 I'm a MSc student in computer science and engineering at the Politecnico of Milan.
