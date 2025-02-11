@@ -1,19 +1,18 @@
 - title: Programming Language
   type: nested_list
   contents:
-    - title: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    - title: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    - title: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    - title: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    - title: <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash"  />
-    - title: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    # - title: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter"  />
+    - title: <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="bash" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" height="40"/>
 
 - title: Frontend Development
   type: nested_list
   contents:
-    - title: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    - title: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html 5" height="40"/>
+    - title: <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css 3" height="40"/>
 
 - title: Database Development
   type: nested_list
@@ -23,20 +22,20 @@
 - title: Software
   type: nested_list
   contents:
-    - title: <img src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="40" />
+    - title: <img src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="40"/>
     - title: <img src="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000" alt="microsoft office" height="40"/>
       items:
         - <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" alt="microsoft word" height="40"/>
         - <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="microsoft excel" height="40"/>
         - <img src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" alt="microsoft powerpoint" height="40"/>
     - title: <img src="https://img.icons8.com/?size=100&id=yobF1TONimeZ&format=png&color=000000" alt="onlyoffice" height="40"/>
-    - title: <img src="https://img.icons8.com/?size=100&id=bClIoRlXM2zu&format=png&color=000000" alt="team viewer" height=40"/>
     # - title: <img src="https://img.icons8.com/?size=100&id=LeB8j1mN1d86&format=png&color=000000" alt="libreoffice" height="40"/>
     #   items:
     #     - <img src="https://img.icons8.com/?size=100&id=MG2UE0fs0yBY&format=png&color=000000" alt="libreoffice writer" height="40"/>
     #     - <img src="https://img.icons8.com/?size=100&id=GUAbbdSyYRmS&format=png&color=000000" alt="libreoffice calc" height="40"/>
-    #     - <img src="https://img.icons8.com/?size=100&id=54uYW0gO4Ewu&format=png&color=000000" alt="libreoffice impress" height="40"/>
-      
+    #     - <img src="https://img.icons8.com/?size=100&id=54uYW0gO4Ewu&format=png&color=000000" alt="libreoffice impress" height="40"/>      
+    - title: <img src="https://img.icons8.com/?size=100&id=bClIoRlXM2zu&format=png&color=000000" alt="team viewer" height="40"/>
+    - title: <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" height="40"/>
 
 - title: IDE
   type: nested_list
@@ -53,7 +52,5 @@
 - title: Operating System
   type: nested_list
   contents:
-    - title: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    - title: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-
-# https://icons8.com
+    - title: <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux" height="40"/> 
+    - title: <img src="https://img.icons8.com/?size=100&id=TuXN3JNUBGOT&format=png&color=000000" alt="windows" height="40"/>
