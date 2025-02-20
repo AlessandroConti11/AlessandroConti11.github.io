@@ -6,7 +6,7 @@ subtitle: MSc student at <a href='https://www.polimi.it/'>PoliMI</a>
 
 profile:
   align: right
-  image: ale_img.jpg
+  image: 20240607_134405.jpg #ale_img.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Milan, Italy</p>
