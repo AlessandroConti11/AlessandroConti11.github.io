@@ -14,10 +14,10 @@ github_repos_polimi_course:
   - AlessandroConti11/Parking_Occupancy_IoT_2024
 
 github_repos_for_fun:
-  - AlessandroConti11/Matrix_Library
-  - AlessandroConti11/Modular_Arithmetic_Library
   - AlessandroConti11/Generate_Unpredictable_Random_Number
   - AlessandroConti11/Simple_Client-Server_Interaction
+  - AlessandroConti11/Matrix_Library
+  - AlessandroConti11/Modular_Arithmetic_Library
   - AlessandroConti11/Web_Clock
   - AlessandroConti11/GH_Repository_Social_Media_Preview_Generator
   - AlessandroConti11/Sorting_Network
