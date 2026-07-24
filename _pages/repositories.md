@@ -17,8 +17,6 @@ nav_order: 4
   {% endfor %}
 </div>
 
----
-
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
 {% if site.data.repositories.github_users.size > 1 %}
@@ -28,8 +26,6 @@ nav_order: 4
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% include repository/repo_trophies.liquid username=user %}
   </div>
-
----
 
 {% endfor %}
 {% endif %}
@@ -47,8 +43,6 @@ nav_order: 4
 </div>
 {% endif %}
 
----
-
 
 {% if site.data.repositories.github_repos_bachelor_fp %}
 
@@ -61,8 +55,6 @@ nav_order: 4
 </div>
 {% endif %}
 
----
-
 {% if site.data.repositories.github_repos_polimi_course %}
 
 ## GitHub Repositories of Course-Required Projects at PoliMI
@@ -74,7 +66,6 @@ nav_order: 4
 </div>
 {% endif %}
 
----
 
 {% if site.data.repositories.github_repos_for_fun %}
 
