@@ -1305,3 +1305,16 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+.repo-2col .repo {
+  flex: 0 0 48%;   // forza ogni elemento a occupare circa metà riga
+  max-width: 48%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 576px) {
+  .repo-2col .repo {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
