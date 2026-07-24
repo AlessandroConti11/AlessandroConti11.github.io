@@ -36,7 +36,7 @@ nav_order: 4
 {% endif %}
 
 
-{% if site.data.repositories.github_repos_master_fp %}
+{% if site.data.repositories.github_repos_master_fp %} 
 
 ## GitHub Repositories of the Master's Degree Final Project
 
