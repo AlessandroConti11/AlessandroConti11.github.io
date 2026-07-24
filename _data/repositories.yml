@@ -3,6 +3,9 @@ github_users:
 
 repo_description_lines_max: 2
 
+github_repos_master_fp:
+  - AlessandroConti11/CryptAttackTester
+
 github_repos_bachelor_fp:
   - AlessandroConti11/Progetto_API_2023
   - AlessandroConti11/Progetto_Reti_Logiche_2023
