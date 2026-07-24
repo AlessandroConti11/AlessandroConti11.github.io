@@ -26,8 +26,36 @@
 - title: Education
   type: time_table
   contents:
+    - title: Master's Degree in Computer Engineering
+      institution: Politecnico di Milano, Milan, Italy
+      year: 2026
+      description:
+        - title: 1st Year
+          contents:
+            - Data Base 2 - 089183
+            - Distributed Systems - 090950
+            - Formal Language And Compilers - 089182
+            - Foundations of Operations Research - 088983
+            - Software Engineering 2 - 054443
+            - Advance Computer Architectures - 088949
+            - Computer Security - 055633
+            - Computing Infrastructures - 095898
+            - Internet of Things - 054323
+            - Model Identification and Data Analysis - 1st Module - 090037
+        - title: 2nd Year
+          contents:
+            - Advanced Operating System - 095903
+            - Game Theory - 088976
+            - Logica e Algebra 2 - 091021
+            - Offensive and Defensive Cybersecurity - 056896
+            - Performance Evaluation and Applications - 056897
+            - Computer Graphics - 090958
+            - Cryptography and Architectures for Computer Security - 095947
+            - Digital Forensics and Cybercrime - 055812
+            - Formal Methods for Concurrent and Real-Time Systems - 088882
+            - Human and Physical Aspects of Security - 062113
     - title: Bachelor's Degree in Computer Engineering
-      institution: Polytechnic University of Milan, Milan, Italy
+      institution: Politecnico di Milano, Milan, Italy
       year: 2023
       description:
         - title: 1st Year
