@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc student at <a href='https://www.polimi.it/'>PoliMI</a>
+subtitle: Computer Science Engineer
 
 profile:
   align: right
@@ -19,9 +19,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <h1>Hi, I'm Alessandro Conti</h1>
-<h3>A passionate backend developer from Italy</h3>
 
-I'm a MSc student in computer science and engineering at the Politecnico of Milan.
-I am very passionate about cyber-security, operating systems, software development, and generally all free and open source software.
-
-I am comfortable working in teams and collaborating with passionate people.
+Master’s degree in Computer Science and Engineering from the Politecnico di Milano, with a solid background in cybersecurity, operating systems, and software engineering. Passionate about low-level programming, system architecture, and the development of secure and scalable software. Motivated to apply the academic rigour and practical experience gained while writing my thesis to solve complex technical challenges in dynamic engineering contexts.
