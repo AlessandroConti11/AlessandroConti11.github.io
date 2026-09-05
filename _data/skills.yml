@@ -42,7 +42,12 @@
   type: nested_list
   contents:
     - title: <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="mysql" height="40"/>
-   
+
+- title: API Gateway
+  type: nested_list
+  contents:
+    - title: <img src="https://assets.prd.mktg.konghq.com/images/2026/03/69c44d0c-kong-logo-headshot.png" alt="kong gateway" height="40"/>
+    
 - title: Software
   type: nested_list
   contents:
